@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: SimpleLinnn
 # 描述/签名
-description: 恩仔的博客主页
+description: 恩仔的博客
 
 #
 # 下面的设定都是可选的
@@ -32,7 +32,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 5
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
@@ -53,7 +53,7 @@ footer-links:
 #  youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright(c)2022@SimpleLinnn
+footer-text: Copyright(c)2022 @ SimpleLinnn
 
 # 输入Disqus shortname，即可添加评论区，细节可阅读文档。
 #disqus: loffer #shortname
@@ -62,12 +62,12 @@ footer-text: Copyright(c)2022@SimpleLinnn
 google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: https://simplelinnn.github.io/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: 
+# baseurl: 
 
 
 #
