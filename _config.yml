@@ -5,19 +5,19 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: SimpleLinnn
 # 描述/签名
-description: 一个可以fork的博客
+description: Linnn@Blogs
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://github.com/SimpleLinnn/SimpleLinnn.github.io/tree/main/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://github.com/SimpleLinnn/SimpleLinnn.github.io/tree/main/images/favicon.png
 
 
 # 菜单中的按钮
