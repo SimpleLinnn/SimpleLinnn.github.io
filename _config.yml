@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: SimpleLinnn
 # 描述/签名
-description: Linnn@Blogs
+description: Linnn Blog
 
 #
 # 下面的设定都是可选的
@@ -17,7 +17,7 @@ description: Linnn@Blogs
 avatar: https://github.com/SimpleLinnn/SimpleLinnn.github.io/tree/main/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/SimpleLinnn/SimpleLinnn.github.io/main/tree/images/favicon.png
+favicon: https://github.com/SimpleLinnn/SimpleLinnn.github.io/tree/main/images/favicon.png
 
 
 # 菜单中的按钮
