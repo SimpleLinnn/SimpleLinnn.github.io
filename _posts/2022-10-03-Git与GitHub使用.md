@@ -8,8 +8,6 @@ tags: [git, java]
 comments: true
 ---
 
-## Git与GitHub使用
-
 ![git与github示意图](..\images\git与github示意图.jpg)
 
 ### 1. Git初始配置
@@ -143,4 +141,6 @@ git tag        # 查看标签
 git tag 标签名  # 打标签
 ```
 
-![image-20221003150327365](pic/image-20221003150327365.png)
+![image-20221003150327365](././pic/image-20221003150327365.png)
+
+![image-20221003152047640](pic/image-20221003152047640.png)
