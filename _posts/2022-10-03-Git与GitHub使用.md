@@ -4,7 +4,7 @@ title: Git与GitHub使用
 date: 2022-10-03
 Author: ELin
 categories: 
-tags: [git, java]
+tags: [Git, Java]
 comments: true
 ---
 
@@ -141,4 +141,3 @@ git tag        # 查看标签
 git tag 标签名  # 打标签
 ```
 
-![image-20221003152531840](../images/image-20221003152531840.png)
